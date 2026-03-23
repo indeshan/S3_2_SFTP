@@ -1,0 +1,6 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.209",
+        "phpseclib/phpseclib": "^3.0"
+    }
+}
